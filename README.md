@@ -1,13 +1,13 @@
 # Jscrapy
 
 Jscrapy 是一个java实现的分布式爬虫系统，云部署。	
-用户只需要定义需要抓取的数据的XPath，无需写程序，即可以实现高效的分布式爬虫系统。	
+用户只需要定义需要抓取的数据的XPath，无需写程序，即可以实现高效的分布式爬虫系统。	 
 
-计划1
- 1, 可以使用命令行建立一个新项目
- 2, 可以使用代理列表下载；
- 3, 可以使用cookie列表；
- 4, 可以使用request head列表；
+计划1 
+ 1, 可以使用命令行建立一个新项目 
+ 2, 可以使用代理列表下载； 
+ 3, 可以使用cookie列表； 
+ 4, 可以使用request head列表； 
  5, 下载器的实现：  1, java jdk api 下载, 2, apache HttpClient下载, 3, 使用Python scrapy下载, 4, 使用Selenium脚本, 5,使用Oracle Openscript脚本.
  6, 可以定义爬取计划。
  7, 预定义的存储格式， txt，Excel，mysql, mongodb, Amazon DB.
